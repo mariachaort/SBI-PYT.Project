@@ -6,9 +6,9 @@ setup(
     packages=find_packages(),
     entry_points={
         'console_scripts': [
-            'protein_binding_predictor=main:main',
-            'model_generator=model_generator:main',
-            'evaluate_model=evaluate_model:main'
+            'main=main:main',
+            'accuracy=accuracy:main',
+            'model_generator=generate_model:main'
         ],
     },
     install_requires=[
@@ -23,6 +23,7 @@ setup(
     author='Chacón M., Delgado P., Ascunce A.',
     description='Protein Binding Site Predictor: A tool for predicting protein binding sites using machine learning.',
     keywords='protein binding site predictor machine learning',
-    url='https://github.com/mariachaort/SBI-PYT.Project.git',
+    url='https://github.com/mariachaort/SBI-PYT.Project.git'
 )
+
 
