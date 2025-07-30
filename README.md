@@ -128,3 +128,9 @@ Usage:
 Example:
 
     python evaluate_model.py -model model.pkl -test test_set.csv -metrics -roc roc_curve.png -pred predictions.csv
+
+## Authors
+
+- Alex Ascunce
+- María Chacon
+- Paula Delgado
