@@ -22,7 +22,7 @@ This script predicts protein binding sites using a pre-trained Random Forest mod
 To use the program, follow these steps:
 1) Clone this repository:
 ```bash
-git clone https://github.com/Alexasparis/BSpredictor.git
+git clone https://github.com/mariachaort/SBI-PYT.Project.git
 ```
 2) Install the required Python packages using pip:
 ```bash
