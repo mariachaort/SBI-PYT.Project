@@ -1,5 +1,5 @@
 # Protein Binding Site Predictor 
-
+BSPredictor
 ## PREDICTOR:
 This script predicts protein binding sites using a pre-trained Random Forest model. It takes as input a Protein Data Bank (PDB) file or folder containing PDB files and outputs three files per input file
 1. CSV file containing the predictions for both binding (1) and non binding (0) residues.
